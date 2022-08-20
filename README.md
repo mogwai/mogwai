@@ -1,1 +1,1 @@
-![](https://komarev.com/ghpvc/?mogwai)
+![](https://komarev.com/ghpvc/?username=mogwai)
